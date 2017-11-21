@@ -15,23 +15,6 @@
   ],
   "pizzas": [
     {
-      "name": "The Inferno",
-      "toppings": [
-        "chili",
-        "bacon",
-        "mushroom",
-        "basil",
-        "pepperoni",
-        "olive",
-        "sweetcorn",
-        "anchovy",
-        "mozzarella",
-        "pepper",
-        "tomato"
-      ],
-      "id": 1
-    },
-    {
       "name": "Seaside Surfin'",
       "toppings": [
         "mozzarella",
@@ -44,6 +27,30 @@
         "tomato"
       ],
       "id": 2
+    },
+    {
+      "name": "ASD",
+      "toppings": [
+        "mushroom",
+        "pepperoni",
+        "basil",
+        "bacon"
+      ],
+      "sizes": [],
+      "id": 3
+    },
+    {
+      "name": "123ASD",
+      "toppings": [
+        "bacon",
+        "basil",
+        "olive",
+        "sweetcorn",
+        "tomato",
+        "anchovy"
+      ],
+      "sizes": [],
+      "id": 4
     }
   ]
 }
